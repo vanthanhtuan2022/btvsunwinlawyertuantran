@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BTV Tuấn Trần - Người dẫn dắt và phát triển Sunwin Lawyer
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Tuấn Trần - BTV Sunwin Lawyer <https://sunwin.lawyer/btv-sunwin-lawyer-tuan-tran/>`_ là người có vai trò quan trọng tại cổng game bài Ma Cao chính hãng, nổi bật với sự an toàn và bảo mật tuyệt đối. Với vai trò BTV tại Sunwin.lawyer, Tuấn Trần không chỉ chia sẻ bí kíp cá cược đỉnh cao mà còn giúp người chơi phân biệt giữa website chính hãng và giả mạo, cũng như đánh giá các nhà cái uy tín. Sunwin cam kết mang đến những trải nghiệm tuyệt vời nhất và nhiều ưu đãi đặc biệt trong năm 2024 cho toàn bộ giới cược thủ tại Việt Nam.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 2x Hẻm F12 Quách Điêu, Vĩnh Lộc A, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0889544008. 
 
-Contents
---------
+Email: info@sunwin.lawyer. 
 
-.. toctree::
+Website: https://sunwin.lawyer/btv-sunwin-lawyer-tuan-tran/
 
-   usage
-   api
+#sunwin #sun_win #game_bai_doi_thuong_sunwin #tai_sunwin #tai_sun_win #tai_xiu_sunwin #link_tai_sunwin #sunwin_club #sunwinclub #sunwin_lawyer #sunwinlawyer #play_sunwin
